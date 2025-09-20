@@ -1,0 +1,99 @@
+
+/* this is the title */ 
+
+.line{
+  border-top: 1px solid darkred;
+  padding-bottom: 2px;
+  width: auto;
+}
+
+div.title{
+		text-align: left;
+}
+}
+
+div.text {
+	text-align: center;
+}
+
+text {
+	text-decoration: none;
+  font-family: "arial";
+	font-size: 16px;
+	letter-spacing: .1rem;
+	color: darkred;
+	text-align: center;
+	align-content: center;
+}
+
+a 
+{
+	text-decoration: none;
+  font-family: "arial";
+	font-size: 16px;
+	color: darkred;
+	text-align: center;
+	align-content: center;
+	padding-left: 2%;
+	padding-top: 5px;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+b
+{
+  font-family: "arial";
+	font-size: 14px;
+	color: black;
+	letter-spacing: .1rem;
+	font-weight: 200;
+}
+
+
+div.c{
+	text-align: center;
+}
+
+c
+{
+	display: inline-block;
+	width: 28%;
+  font-family: "times new roman";
+  letter-spacing: .065rem;
+	font-size: 12px;
+	color: black;
+	text-align: center;
+}
+
+
+body {
+	background-color: rgb(255, 245, 235, 1.0);
+	text-align: center;
+	font-family: "arial";
+	background-repeat: no-repeat;
+	font-size: 12px;
+	padding:2px;
+}
+
+p{
+	font-family: arial;
+}
+
+div.table{
+	text-align: right;
+}
+
+
+
+
+
+	
+
+
+
+
+
+
+	

@@ -137,6 +137,16 @@ td:hover {
 }
 
 
+.imgsrow {
+display:table;
+align-content: center;
+}
+
+.imgcolumn {
+float: left;
+width: 50%;
+align-content: center;
+}
 
 
 
@@ -324,6 +334,7 @@ td:hover {
 
 
 	
+
 
 
 

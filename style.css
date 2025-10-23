@@ -198,6 +198,12 @@ width: 33.3%;
 align-content: center;
 }
 
+.imgcolumnSKIP {
+float: left;
+width: 25%;
+align-content: center;
+}
+
 
 
 
@@ -389,6 +395,7 @@ align-content: center;
 
 
 	
+
 
 
 

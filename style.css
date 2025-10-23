@@ -348,6 +348,10 @@ align-content: center;
       margin: 0 auto;
       backface-visibility: hidden;
    }
+	c{
+	font-size: 11px;
+		max-width:90%
+	}
    a {
       font-size: 12px;
    }
@@ -398,6 +402,7 @@ align-content: center;
 
 
 	
+
 
 
 

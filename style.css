@@ -82,7 +82,7 @@ b
 .button2 {
    position: relative;
    left: -10%;
-   top: 30%;
+   top: 10px;
   background-color: white;
   background: url("arrow-LEFT.svg") no-repeat;
   color: black;
@@ -97,7 +97,7 @@ b
 .button3 {
    position: relative;
    left: 10%;
-   top: 30%;
+   top: 10px;
   background-color: white;
   background: url("arrow-RIGHT.svg") no-repeat;
   color: black;
@@ -369,8 +369,8 @@ align-content: center;
   }
 	.button3 {
    position: relative;
-   left: 30%;
-   top: 50%;
+   left: 3vw;
+   top: 3vw;
   background-color: white;
   background: url("arrow-RIGHT.svg") no-repeat;
   color: black;
@@ -421,6 +421,7 @@ align-content: center;
 
 
 	
+
 
 
 

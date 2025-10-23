@@ -381,7 +381,7 @@ align-content: center;
    padding-top: 33%;
    padding-bottom: 66%;
    position: absolute; /* Position the background text */
-   background: rgb(255, 245, 235, 0.5); 
+   background: #ffffff; 
    line-height: 1.5em;
    top: 0; 
    width: 100%; 
@@ -398,6 +398,7 @@ align-content: center;
 
 
 	
+
 
 
 

@@ -16,10 +16,28 @@ div.text {
 	text-align: center;
 }
 
+h2{
+   text-decoration: none;
+   font-style: none !important;
+  font-family: "arial";
+   font-size: 16px;
+   letter-spacing: .1rem;
+   color: darkred;
+   text-align: left;
+}
+
+.textla {
+   padding:5px;
+   text-decoration:none;
+   font-size: 20px;
+   letter-spacing: .1rem;
+   text-align: left;
+}
+
 text {
 	text-decoration: none;
   font-family: "arial";
-	font-size: 19px;
+	font-size: 40px;
 	letter-spacing: .1rem;
 	color: darkred;
 	text-align: center;
@@ -32,7 +50,7 @@ a
   font-family: "arial";
 	font-size: 16px;
 	color: darkred;
-	text-align: center;
+	
 	align-content: center;
 	padding-left: 2%;
 	padding-top: 5px;
@@ -325,6 +343,9 @@ align-content: center;
    a {
       font-size: 12px;
    }
+   .textla {
+      font-size: 16px;
+   }
    
    #slider {
       max-width: calc(100% - 100px);
@@ -358,14 +379,12 @@ align-content: center;
 
 
 
-	
-
-
 
 
 
 
 	
+
 
 
 

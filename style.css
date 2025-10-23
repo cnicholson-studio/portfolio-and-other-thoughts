@@ -383,7 +383,7 @@ align-content: center;
 
 
 .texty {
-	text-decoration: underline;
+	text-decoration: underline !important;
 }
 
 .slide-content .texty {
@@ -410,6 +410,7 @@ align-content: center;
 
 
 	
+
 
 
 

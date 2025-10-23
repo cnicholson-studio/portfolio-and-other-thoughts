@@ -357,6 +357,9 @@ align-content: center;
 .imgcolumnWADI {
     width: 100%;
   }
+	.imgcolumnSKIP {
+    width: 100%;
+  }
    
    #slider {
       max-width: calc(100% - 100px);
@@ -395,6 +398,7 @@ align-content: center;
 
 
 	
+
 
 
 

@@ -393,8 +393,9 @@ align-content: center;
 
 
 .texty {
-	text-decoration: underline !important;
+	text-decoration: none !important;
 }
+
 
 .slide-content .texty {
    font-size: 40px;
@@ -420,6 +421,7 @@ align-content: center;
 
 
 	
+
 
 
 

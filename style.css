@@ -82,7 +82,7 @@ b
 .button2 {
    position: relative;
    left: -10%;
-   top: 35px;
+   top: 20%;
   background-color: white;
   background: url("arrow-LEFT.svg") no-repeat;
   color: black;
@@ -97,7 +97,7 @@ b
 .button3 {
    position: relative;
    left: 10%;
-   top: 35px;
+   top: 20%;
   background-color: white;
   background: url("arrow-RIGHT.svg") no-repeat;
   color: black;
@@ -367,6 +367,16 @@ align-content: center;
 	.imgcolumnSKIP {
     width: 100%;
   }
+	.button3 {
+   position: relative;
+   left: 30%;
+   top: 50%;
+  background-color: white;
+  background: url("arrow-RIGHT.svg") no-repeat;
+  color: black;
+  opacity: .5;
+}
+	
    
    #slider {
       max-width: calc(100% - 100px);
@@ -410,6 +420,7 @@ align-content: center;
 
 
 	
+
 
 
 

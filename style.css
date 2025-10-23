@@ -348,6 +348,9 @@ align-content: center;
       margin: 0 auto;
       backface-visibility: hidden;
    }
+	.texty {
+	font-size:5vw;
+}
 	c{
 	font-size: 11px;
 		max-width:90%
@@ -378,6 +381,11 @@ align-content: center;
   margin: 0 auto; /* Center it */
 }
 
+
+.texty {
+	text-decoration: underline;
+}
+
 .slide-content .texty {
    font-size: 40px;
    opacity: 0; 
@@ -402,6 +410,7 @@ align-content: center;
 
 
 	
+
 
 
 

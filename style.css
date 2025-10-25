@@ -358,6 +358,10 @@ align-content: center;
    a {
       font-size: 12px;
    }
+
+	.blocky{
+		font-size: 14px;
+	}
    .textla {
       font-size: 16px;
    }
@@ -395,6 +399,9 @@ align-content: center;
 .blocky {
 	text-decoration: none !important;
 }
+.blocky:hover {
+	font-style: italic !important;
+}
 
 
 .slide-content .texty {
@@ -421,6 +428,7 @@ align-content: center;
 
 
 	
+
 
 
 

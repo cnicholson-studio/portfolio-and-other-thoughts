@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<title>Dress</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<br />
+
+<div class="title">
+<a class="textla" href="index.html">c nicholson portfolio and other thoughts</a>
+</div>
+<br /> 
+<div class="line"></div>
+
+
+<div class="table">
+		<td ><a style="text-decoration-line:overline;text-decoration-color: white;text-decoration-thickness: 5px;"href="MAP.html"> PORTFOLIO </a></td>
+		<td ><a href="research.html"> RESEARCH </a></td>
+		<td ><a href="drawing.html"> DRAWING </a></td>
+		<td ><a href="writing.html"> WRITING </a></td>
+</div>
+
+<a href="SWEET.html" class="button button2">
+</a>
+
+<a href="drawing.html" class="button button3">
+</a>
+
+<body>
+<br /> 
+<br /> 
+<div class="text">
+<b>
+GREEN <br /> DRESS
+</b>
+</div>
+
+<br /> 
+-or-
+<br /> 
+<br /> 
+
+<div class="text">
+<c>
+dress, liner <br /> 
+2022 <br />
+<br /> 
+green fabric, cotton liner, masking tape mock-up
+</c>
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<div class="imgsrow">
+	<div class="imgcolumn">
+	<img src="" width="80%" height="100%">
+	</div>
+	<div class="imgcolumn">
+	<img src="" width="80%" height="100%">
+	</div>
+</div>
+
+<br /> 
+<br /> 
+<br /> 
+
+
+
+<br /> 
+<br /> 
+		
+<b>contact:  nicholsonwork@protonmail.com</b>
+<br />
+		<br />
+
+</body>
+
+
+</html>

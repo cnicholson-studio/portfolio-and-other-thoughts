@@ -19,6 +19,11 @@ style
   margin: 8px -16px;
 }
 
+.row,
+.row > .column {
+  padding: 8px;
+}
+
 /* Create four equal columns that floats next to each other */
 .column2 {
   float: left;

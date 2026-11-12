@@ -27,7 +27,7 @@ body {
 /* Create four equal columns that floats next to each other */
 .column2 {
   float: left;
-  width: 33.3%;
+  width: 31%;
 }
 
 /* Clear floats after rows */ 

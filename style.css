@@ -1,8 +1,4 @@
-.responsive {
-  width: 100%;
-  max-width: 350px;
-  height: auto;
-}
+
 
 style
  {
@@ -12,11 +8,11 @@ style
 
 /* Center website */
 .main {
-  max-width: 1300px;
+  max-width: 1000px;
   margin: auto;
 }
 .row {
-  margin: 4px -8px;
+  margin: 8px -16px;
 }
 
 /* Create four equal columns that floats next to each other */

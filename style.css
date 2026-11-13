@@ -29,6 +29,12 @@ style
   clear: both;
 }
 
+.column:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Content */
 .content {
   background-color: white;

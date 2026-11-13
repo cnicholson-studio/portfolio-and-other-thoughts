@@ -51,6 +51,7 @@ style
 @media screen and (max-width: 900px) {
   .column {
     width: 50%;
+	  height: auto;
 	  clear: both;
   }
 }
@@ -59,6 +60,7 @@ style
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
+	  height: auto;
 	  clear: both;
   }
 }

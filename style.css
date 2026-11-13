@@ -15,6 +15,10 @@ style
   margin: 8px -16px;
 }
 
+.clear {
+clear: both;
+}
+
 /* Create four equal columns that floats next to each other */
 .column {
   float: left !important;

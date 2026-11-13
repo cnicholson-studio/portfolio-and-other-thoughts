@@ -25,6 +25,12 @@ style
   width: 25%;
 }
 
+/* Clear floats after rows 
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 /* Content */
 .content2 {

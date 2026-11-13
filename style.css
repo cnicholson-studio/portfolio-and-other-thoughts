@@ -19,6 +19,7 @@ style
 .column {
   float: left !important;
   width: 25%;
+  height: 350px;
 }
 
 /* Clear floats after rows */

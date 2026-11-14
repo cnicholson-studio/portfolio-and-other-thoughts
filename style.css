@@ -512,7 +512,6 @@ align-content: center;
 .flex-container2 {
   display: flex;
   flex-direction: row;
-  height: 50px;
 }
 
 .flex-item2 {
@@ -521,6 +520,7 @@ align-content: center;
   font-size: 30px;
   text-align: center;
   width: 100%;
+  height: 500vw;
   object-fit: contain;
 
 }

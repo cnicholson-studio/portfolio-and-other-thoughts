@@ -520,6 +520,7 @@ align-content: center;
   font-size: 30px;
   text-align: center;
   width: 100%;
+  height: 400vw;
 }
 
 .flex-item2 img {

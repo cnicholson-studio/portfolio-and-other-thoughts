@@ -186,45 +186,28 @@ td:hover {
 
 
 
-
 * {
   box-sizing: border-box;
 }
 
-.row3 {
+.flex-container {
   display: flex;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
   align-items: end;
   flex-wrap: wrap;
-  padding: 0 4px;
+  max-width: 75%;
 }
 
-.column3 {
-  flex: 30% !important;
-  max-width: 30% !important;
-  padding: 0 4px;
+.flex-item {
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+  flex: 33.3%;
 }
 
-.column3 img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-@media screen and (max-width: 800px) {
-  .column3 {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
+@media (max-width: 600px) {
+  .flex-item {
+    flex: 100%;
   }
 }
-
-@media screen and (max-width: 600px) {
-  .column3 {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-
-
-
-  

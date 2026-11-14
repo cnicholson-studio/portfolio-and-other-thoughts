@@ -193,13 +193,15 @@ td:hover {
 
 .row3 {
   display: flex;
+  justify-content: center;
+  align-items: end;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
 .column3 {
-  flex: 50%;
-  max-width: 50%;
+  flex: 40%;
+  max-width: 40%;
   padding: 0 4px;
 }
 

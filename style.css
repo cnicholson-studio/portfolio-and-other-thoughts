@@ -508,8 +508,9 @@ align-content: center;
 
 
 
-
-
+*{
+box-sizing: border-box;
+}
 
 .row3 {
   display: -ms-flexbox; /* IE10 */

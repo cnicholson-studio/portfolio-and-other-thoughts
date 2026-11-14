@@ -518,7 +518,6 @@ box-sizing: border-box;
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
   padding: 0 4px;
-  height: 400vw;
 }
 
 /* Create four equal columns that sits next to each other */

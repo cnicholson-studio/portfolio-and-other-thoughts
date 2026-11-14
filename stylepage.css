@@ -200,8 +200,8 @@ td:hover {
 }
 
 .column3 {
-  flex: 30%;
-  max-width: 30%;
+  flex: 30% !important;
+  max-width: 30% !important;
   padding: 0 4px;
 }
 
